@@ -26,3 +26,4 @@ StartupNotify=true
 Icon=/home/steve/.fusion360/graphics/fusion360.svg
 Terminal=false
 Path=/home/steve/.fusion360/wineprefixes/default
+StartupWMClass=fusion360.exe
